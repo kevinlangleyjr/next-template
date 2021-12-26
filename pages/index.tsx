@@ -4,7 +4,7 @@ import Layout from '@components/Layout';
 const Home: NextPage = () => {
   return (
     <Layout>
-      <h1>Home</h1>
+      <h1>Home 123</h1>
     </Layout>
   );
 };
